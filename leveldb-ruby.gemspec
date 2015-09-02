@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "leveldb-ruby"
-  s.version     = "0.15.1"
+  s.version     = "0.15"
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ["MIT"]
   s.summary     = "a Ruby binding to LevelDB"
