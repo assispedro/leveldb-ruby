@@ -1,10 +1,10 @@
 #include <ruby.h>
 #include <memory>
 
-#include "leveldb/db.h"
-#include "leveldb/cache.h"
-#include "leveldb/slice.h"
-#include "leveldb/write_batch.h"
+#include "../../leveldb/include/leveldb/db.h"
+#include "../../leveldb/include/leveldb/cache.h"
+#include "../../leveldb/include/leveldb/slice.h"
+#include "../../leveldb/include/leveldb/write_batch.h"
 
 using namespace std;
 
